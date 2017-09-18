@@ -1,4 +1,4 @@
-# outlier detection package for serice parts usage analysis
+# outlier detection package for service parts usage analysis
 This is the package used for detect abnormal usage data of service parts in supply chain and logistics. The abnormaly is justified by comparing the install base data with the usage data when the trends of these two are similar. when dissimilar exists between these two, the trend of usage itself is used.
 
 ## User recommendation
