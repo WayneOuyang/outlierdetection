@@ -1,1 +1,1 @@
-# outlierdetection package for serice parts usage analyis
+# outlier detection package for serice parts usage analyis
