@@ -4,3 +4,4 @@ This is the package used for detect abnormal usage data of service parts in supp
 ## User recommendations
 - The input data of Install base and Usage should have two columns: the first column should be the date format and the second should be numerical. 
 - The starting date of Install base should be earlier than the one of Usage and the ending date of Install base should be later than the    one of Usage.
+- The output of the package is a) plot (res$plot) and b) outliers (res$anoms)
